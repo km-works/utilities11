@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kmw.utilities.core.structs.PeekingStackTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-11-08T08:38:59" hostname="TITAN3" time="0.029">
+  <properties/>
+  <testcase name="testClearStack" classname="kmw.utilities.core.structs.PeekingStackTest" time="0.008"/>
+  <testcase name="testThrowEmptyStackException_03a" classname="kmw.utilities.core.structs.PeekingStackTest" time="0.002"/>
+  <testcase name="testThrowEmptyStackException_03b" classname="kmw.utilities.core.structs.PeekingStackTest" time="0.004"/>
+  <testcase name="testIterators" classname="kmw.utilities.core.structs.PeekingStackTest" time="0.004"/>
+  <testcase name="testThrowEmptyStackException_01" classname="kmw.utilities.core.structs.PeekingStackTest" time="0.001"/>
+  <testcase name="testThrowEmptyStackException_02" classname="kmw.utilities.core.structs.PeekingStackTest" time="0.0"/>
+  <testcase name="testPushNullItem" classname="kmw.utilities.core.structs.PeekingStackTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

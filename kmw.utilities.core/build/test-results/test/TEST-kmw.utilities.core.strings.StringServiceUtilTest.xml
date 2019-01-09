@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kmw.utilities.core.strings.StringServiceUtilTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2018-11-08T08:38:59" hostname="TITAN3" time="0.024">
+  <properties/>
+  <testcase name="testCountNewlines" classname="kmw.utilities.core.strings.StringServiceUtilTest" time="0.008"/>
+  <testcase name="testRemoveWithespace" classname="kmw.utilities.core.strings.StringServiceUtilTest" time="0.009"/>
+  <testcase name="testCountMatches" classname="kmw.utilities.core.strings.StringServiceUtilTest" time="0.001"/>
+  <testcase name="testGetFileExt" classname="kmw.utilities.core.strings.StringServiceUtilTest" time="0.0"/>
+  <testcase name="testIsBlank" classname="kmw.utilities.core.strings.StringServiceUtilTest" time="0.004"/>
+  <testcase name="testStripFileExt" classname="kmw.utilities.core.strings.StringServiceUtilTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

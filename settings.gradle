@@ -1,0 +1,5 @@
+rootProject.name = 'kmw-utilities'
+
+include 'kmw.utilities.core'
+
+enableFeaturePreview('STABLE_PUBLISHING')
